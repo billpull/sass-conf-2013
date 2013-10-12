@@ -19,35 +19,35 @@ sass.js: compile sass in the browser like less
 ### Sass at Github - Ben Bleikamp (@bleikamp | Github)
 
 Stack:
-	- Rails "2.3" (Backported features from newer versions)
-	- HTML ERB + View Models
-	- CoffeeScript
-	- Sass (Scss)
+- Rails "2.3" (Backported features from newer versions)
+- HTML ERB + View Models
+- CoffeeScript
+- Sass (Scss)
 
 Teams on GitHub
 Stop writing new css
 The Styleguide: 
-	- https://github.com/styleguide
-	- KSS: http://github.com/kneath/kss
-	- Comments that generate style guides
-		+ Explanation
-		+ Modifiers
-		+ Reference
+- https://github.com/styleguide
+- KSS: http://github.com/kneath/kss
+- Comments that generate style guides
+	+ Explanation
+	+ Modifiers
+	+ Reference
 
 Primer: Node JS module to share styles across projects
 Jon Rohan @jonrohan
 
 performance problems:
-	- overqualifying selectors
-	- chaining selectors -> moved to single classes
-	- attribute selectors
+- overqualifying selectors
+- chaining selectors -> moved to single classes
+- attribute selectors
 
 tools:
-	- Graphite
-	- Campfire
-	- CSS Explain: https://github.com/josh/css-explain
-	- Dev tools timeline: Big purple & Green bars
-	- Dev tools Audit
+- Graphite
+- Campfire
+- CSS Explain: https://github.com/josh/css-explain
+- Dev tools timeline: Big purple & Green bars
+- Dev tools Audit
 
 ### It Takes a Village to Raise a Website - Chris Eppstein (@chriseppstein | Linkedin)
 
@@ -72,10 +72,10 @@ Nesting Abuse. Following html nesting
 
 Outside In Comp Approach. Comps with tons of red arrows and lines.
 Decompose the UI:
-	- Buttons
-	- Borders and line widths
-	- Icons
-	- Color pallettes 
+- Buttons
+- Borders and line widths
+- Icons
+- Color pallettes 
 
 file structure:
 - /buttons
