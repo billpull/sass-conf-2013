@@ -1,8 +1,7 @@
 DAY 1
-========
+---------
 
-Cheap Sass Tricks - John Long (@johnwlong | uservoice)
--------------------------------------------------------
+### Cheap Sass Tricks - John Long (@johnwlong | uservoice)
 
 @TheSassWay
 
@@ -17,8 +16,7 @@ css-spinners.com
 
 sass.js: compile sass in the browser like less
 
-Sass at Github - Ben Bleikamp (@bleikamp | Github)
------------------------------------------------------
+### Sass at Github - Ben Bleikamp (@bleikamp | Github)
 
 Stack:
 	- Rails "2.3" (Backported features from newer versions)
@@ -51,24 +49,21 @@ tools:
 	- Dev tools timeline: Big purple & Green bars
 	- Dev tools Audit
 
-It Takes a Village to Raise a Website - Chris Eppstein (@chriseppstein | Linkedin)
--------------------------------------------------------------------
+### It Takes a Village to Raise a Website - Chris Eppstein (@chriseppstein | Linkedin)
 
 - maptastic maple
 - plugin repo
 - linter
 - installer
 
-Sass: Bridging the Designer/Developer Gap - Bermom Painter (@bermonpainter | UX/Web Professional)
-----------------------------------------------------------------------------------
+### Sass: Bridging the Designer/Developer Gap - Bermom Painter (@bermonpainter | UX/Web Professional)
 
 - styletiles
 - element collages
 - style guides
 - kss/dss/styledocco
 
-Clean out your Sass Junk-Drawer - Dale Sande (@anotheruiguy | CodeFellows)
-------------------------------------------------------------
+### Clean out your Sass Junk-Drawer - Dale Sande (@anotheruiguy | CodeFellows)
 
 MVC for Sass?
 Where do I put the abstracted code?
@@ -83,27 +78,27 @@ Decompose the UI:
 	- Color pallettes 
 
 file structure:
-	- /buttons
-		+ _mixins.scss
-		+ _extends.scss
-	- /color
-	- /forms
-	- /layouts
-	- /modules
-		+ /registration (Application UI Module)
-			- _extends.scss
-			- _functions.scss
-			- ...
-		+ /purchase
-			- _extends.scss
-			- _functions.scss
-	- /typography
-	- /ui_patterns
-	- /vendor
-	- _buttons.scss
-	- _config.scss (All logic NO CSS!)
-	- _forms.scss
-	- style.scss -> style.css
+- /buttons
+	+ _mixins.scss
+	+ _extends.scss
+- /color
+- /forms
+- /layouts
+- /modules
+	+ /registration (Application UI Module)
+		- _extends.scss
+		- _functions.scss
+		- ...
+	+ /purchase
+		- _extends.scss
+		- _functions.scss
+- /typography
+- /ui_patterns
+- /vendor
+- _buttons.scss
+- _config.scss (All logic NO CSS!)
+- _forms.scss
+- style.scss -> style.css
 
 Make use of manifests.
 Your Foundational UI has no logic only CSS
@@ -120,8 +115,7 @@ Sassmeister:
 
 coderecipez.roughdraft.io
 
-Show Your Work & Share Your Toys - Eric Meyer (@eriiicmeyer | Oddbird)
-------------------------------------------------------------------------
+### Show Your Work & Share Your Toys - Eric Meyer (@eriiicmeyer | Oddbird)
 
 Natalie Down CSS Systems
 
